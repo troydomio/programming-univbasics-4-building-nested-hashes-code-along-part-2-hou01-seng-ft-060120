@@ -22,11 +22,7 @@ def update_status
 
 epic_tragedy[:capulet][:heroine][:status]="dead"
 
-
-
-
-  # After your code, the following code will return the altered hash. This method must only return the modified epic_tragedy hash
-  epic_tragedy
+epic_tragedy
 end
 
 def add_characters
