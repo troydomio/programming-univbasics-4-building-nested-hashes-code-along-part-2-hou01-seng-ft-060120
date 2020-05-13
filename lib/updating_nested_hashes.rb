@@ -20,8 +20,7 @@ def update_status
       }
    }
 
-  epic_tragedy[:capulet][:heroine][:status]="dead"
-  # Code your solution here:
+epic_tragedy[:capulet][:heroine][:status]="dead"
 
 
 
