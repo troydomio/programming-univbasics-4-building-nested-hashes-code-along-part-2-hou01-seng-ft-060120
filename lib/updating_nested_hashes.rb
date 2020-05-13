@@ -19,8 +19,6 @@ def update_status
          ]
       }
    }
-
-
 end
 
 def add_characters
