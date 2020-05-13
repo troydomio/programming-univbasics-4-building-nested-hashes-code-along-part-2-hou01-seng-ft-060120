@@ -20,8 +20,9 @@ def update_status
       }
    }
 
-epic_tragedy[:capulet][:heroine][:status]="dead"
-
+def update_status
+  epic_tragedy[:capulet][:heroine][:status]="dead"
+end
 epic_tragedy
 end
 
